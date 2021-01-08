@@ -33,7 +33,7 @@ Click [here](http://naver.com)
 <!--Table-->
 |Header|Description||
 |--:|:--|--|:--:|
-|cell1|cell2|cell3|
+|cell1| |cell3|
 |cell1|cell2|cell3|
 |cell1|cell2|
 |cell1|cell2|
